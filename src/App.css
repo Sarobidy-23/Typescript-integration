@@ -1,0 +1,11 @@
+body{
+  background: #3f3f3f;
+}
+button{
+  top: 40%;
+  position: absolute;
+  left: 40%;
+  font-size: clamp(10px, 3vw, 40px);
+  border-radius: 10px;
+  background: blue;
+}
