@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was deployed with heroku[find app here](https://typescript-implementation.herokuapp.com/).
+This project was deployed with heroku [find app here](https://typescript-implementation.herokuapp.com/).
 
 ## Available Scripts
 
